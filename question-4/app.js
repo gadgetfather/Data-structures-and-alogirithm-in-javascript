@@ -4,7 +4,7 @@
 // output = 5
 
 // conditions
-// i = 0 j = 0
+// i = 0 j = 1
 // array[i]!=array[j]
 //   i++
 // array[i]=array[j]
