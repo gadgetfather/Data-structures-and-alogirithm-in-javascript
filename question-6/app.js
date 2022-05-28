@@ -24,3 +24,5 @@ function getNthElement(elementNumber) {
 }
 
 getNthElement(4);
+
+// Time complexity is o(n) -> linear time complexity
