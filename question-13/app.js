@@ -38,7 +38,6 @@ function findOdd(array) {
       return;
     }
     if (inputArr[0] % 2 !== 0) {
-      console.log(result);
       result.push(inputArr[0]);
     }
     helperRecursive(inputArr.slice(1));
